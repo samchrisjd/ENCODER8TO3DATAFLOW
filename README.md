@@ -57,8 +57,8 @@ module exp5(a, b, c, y0, y1, y2, y3, y4, y5, y6, y7);
 endmodule
 ```
 ```
-Developed by: S.Navadeep 
-RegisterNumber: 212224230180
+Developed by: Sam Chris M 
+RegisterNumber: 212224040285
 ```
 
 
